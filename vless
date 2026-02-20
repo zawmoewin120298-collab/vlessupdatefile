@@ -37,7 +37,7 @@
       "config": "vmess://eyJhZGQiOiIxODUuMTA0LjE4OS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicG9ydGFsLWFzLnJ1aWppZW5ldHdvcmtzLmNvbSIsImlkIjoiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEvP2RlXHUwMDNkMjU2MCIsInBvcnQiOiI4MCIsInBzIjoiTXlhbm1hci1zdGFybGlua/Cfh7Lwn4eyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9"
     },
     }
-      "name": "TRUE-VDO 🇹🇭",
+      "name": "TRUE-VDO-04 🇹🇭",
      "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@104.18.28.141:443?encryption=none&flow=none&type=ws&host=xcw.bigccoth.indevs.in&headerType=none&path=%2FgetWorkerUpdates&security=tls&sni=xcw.bigccoth.indevs.in#TRUE-VDO"
     },
     }
