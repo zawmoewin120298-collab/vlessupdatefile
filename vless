@@ -43,7 +43,7 @@
     }
      "name": "AIS-02 🇹🇭",
      "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@myvless-production-faac.up.railway.app:443?encryption=none&flow=none&type=ws&host=myvless-production-faac.up.railway.app&headerType=none&path=%2FgetWorkerUpdates&security=tls&sni=www.speedtest.net#AIS-02"
-   }
-   ]
-    }
+   }     
+ ]
+}
     
