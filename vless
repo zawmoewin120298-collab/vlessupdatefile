@@ -1,4 +1,10 @@
 {
+  "latest_version": "1.0.1",
+  "update_url": "https://t.me/your_channel_link",
+  "servers": [...]
+}
+
+{
   "servers": [
     {
       "name": "🇹🇭 AIS-01",
