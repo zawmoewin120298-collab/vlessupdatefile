@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "🇲🇲 Myanmar01",
-      "config": "vmess://eyJhZGQiOiIxODUuMTA0LjE4OS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicG9ydGFsLWFzLnJ1aWppZW5ldHdvcmtzLmNvbSIsImlkIjoiNDNkY2RjZTEtM2NlYS00MTkzLWJjOGQtOTBiOTIwNzFkNzc5IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEvP2RlXHUwMDNkMjU2MCIsInBvcnQiOiI4MCIsInBzIjoiTXlhbm1hci1zdGFybGluayIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ=="
+      "config": "vless://776ec2a5-79b2-4e4c-b6de-e85ce5163bd2@185.84.161.57:80?encryption=none&security=tls&type=ws&host=portal-as.ruijienetworks.com&path=/&allowInsecure=1#แจกฟรีหมด2026-02-28"
     },
     {
       "name": "🇲🇲myanmar 02",
