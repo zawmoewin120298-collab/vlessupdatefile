@@ -12,30 +12,7 @@
       { "name": "🇲🇲 MM-08", "config": "vless://sample-uuid@mm-node8.com:80?type=ws&host=portal-as.ruijienetworks.com#MM08" },
       { "name": "🇲🇲 MM-09", "config": "vless://sample-uuid@mm-node9.com:80?type=ws&host=portal-as.ruijienetworks.com#MM09" },
       { "name": "🇲🇲 MM-10", "config": "vless://sample-uuid@mm-node10.com:80?type=ws&host=portal-as.ruijienetworks.com#MM10" }
-    ],
-    "📶_AIS_GROUP_10_FILES": [
-      { "name": "📶 AIS-01", "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@myvless-production.up.railway.app:443?path=%2FgetWorkerUpdates&security=tls&encryption=none&insecure=1&host=myvless-production.up.railway.app&type=ws&allowInsecure=1&sni=www.speedtest.net#AIS-PRO" },
-      { "name": "📶 AIS-02", "config": "vless://sample-uuid@ais2.node.com:443?security=tls&sni=m.ais.co.th#AIS02" },
-      { "name": "📶 AIS-03", "config": "vless://sample-uuid@ais3.node.com:443?security=tls&sni=www.ais.co.th#AIS03" },
-      { "name": "📶 AIS-04", "config": "vless://sample-uuid@ais4.node.com:443?security=tls&sni=m.ais.co.th#AIS04" },
-      { "name": "📶 AIS-05", "config": "vless://sample-uuid@ais5.node.com:443?security=tls&sni=www.speedtest.net#AIS05" },
-      { "name": "📶 AIS-06", "config": "vless://sample-uuid@ais6.node.com:443?security=tls&sni=m.ais.co.th#AIS06" },
-      { "name": "📶 AIS-07", "config": "vless://sample-uuid@ais7.node.com:443?security=tls&sni=www.ais.co.th#AIS07" },
-      { "name": "📶 AIS-08", "config": "vless://sample-uuid@ais8.node.com:443?security=tls&sni=m.ais.co.th#AIS08" },
-      { "name": "📶 AIS-09", "config": "vless://sample-uuid@ais9.node.com:443?security=tls&sni=www.speedtest.net#AIS09" },
-      { "name": "📶 AIS-10", "config": "vless://sample-uuid@ais10.node.com:443?security=tls&sni=m.ais.co.th#AIS10" }
-    ],
-    "🔴_TRUE_GROUP_10_FILES": [
-      { "name": "🔴 TRUE-01", "config": "vless://sample-uuid@true1.node.com:443?security=tls&sni=www.true.th#TRUE01" },
-      { "name": "🔴 TRUE-02", "config": "vless://sample-uuid@true2.node.com:443?security=tls&sni=m.true.th#TRUE02" },
-      { "name": "🔴 TRUE-03", "config": "vless://sample-uuid@true3.node.com:443?security=tls&sni=dls.trueid.net#TRUE03" },
-      { "name": "🔴 TRUE-04", "config": "vless://sample-uuid@true4.node.com:443?security=tls&sni=www.truemoveh.com#TRUE04" },
-      { "name": "🔴 TRUE-05", "config": "vless://sample-uuid@true5.node.com:443?security=tls&sni=m.true.th#TRUE05" },
-      { "name": "🔴 TRUE-06", "config": "vless://sample-uuid@true6.node.com:443?security=tls&sni=dls.trueid.net#TRUE06" },
-      { "name": "🔴 TRUE-07", "config": "vless://sample-uuid@true7.node.com:443?security=tls&sni=www.true.th#TRUE07" },
-      { "name": "🔴 TRUE-08", "config": "vless://sample-uuid@true8.node.com:443?security=tls&sni=m.true.th#TRUE08" },
-      { "name": "🔴 TRUE-09", "config": "vless://sample-uuid@true9.node.com:443?security=tls&sni=www.truemoveh.com#TRUE09" },
-      { "name": "🔴 TRUE-10", "config": "vless://sample-uuid@true10.node.com:443?security=tls&sni=dls.trueid.net#TRUE10" }
+      { "name,": 🇹🇭 th-1110", "config": "vless://sample-uuid@true10.node.com:443?security=tls&sni=dls.trueid.net#TRUE10" }
     ]
   }
 }
