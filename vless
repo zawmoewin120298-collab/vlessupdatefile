@@ -9,7 +9,7 @@
       { "name": "🇹🇭 AIS-01", "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@myvless-production.up.railway.app:443?path=%2FgetWorkerUpdates&security=tls&encryption=none&insecure=1&host=myvless-production.up.railway.app&type=ws&allowInsecure=1&sni=www.speedtest.net#SMPT" },
       { "name": "🇹🇭 AIS-02", "config": "vless://de2d3e93-8b19-42c6-b5d4-1a764fe4e09e@185.84.161.57:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=speedtest.net&pbk=h9bB0E4IMb45VE_68DK5UZwtc_Zenw8G-Z2Yt_wtLCM&spx=%2F&sid=ea5a6b3c59c8e749#Ais64-128kb" },
       { "name": "🇹🇭 AIS-03", "config": "vless://a0021665-e5db-4aff-8722-68fb98e403ba@mm-website-vpn-production.up.railway.app:443?path=%2Fzawmoewin&security=tls&encryption=none&insecure=1&host=mm-website-vpn-production.up.railway.app&type=ws&allowInsecure=1&sni=www.speedtest.net#ko" },
-      { "name": "🇹🇭 AIS-TRUE-04", "config": "vless://7bd180e8-1142-4387-93f5-03e8d750a896@www.speedtest.net:443?path=%2F7bd180e8&security=tls&encryption=none&insecure=1&host=cdn4.networkd.workers.dev&type=ws&allowInsecure=1&sni=cdn4.networkd.workers.dev#SG-Hetzner_Online" },
+      { "name": "🇹🇭 AIS-TRUE-04", "config": "vless://7bd180e8-1142-4387-93f5-03e8d750a896@st1.zoom.us:443?path=%2F7bd180e8&security=tls&encryption=none&insecure=1&host=cdn4.networkd.workers.dev&type=ws&allowInsecure=1&sni=cdn4.networkd.workers.dev#SG-Hetzner_Online" },
       { "name": "🇲🇲 MM-10", "config": "vless://sample-uuid@mm-node10.com:80?type=ws&host=portal-as.ruijienetworks.com#MM10" },
       { "name": "🇹🇭 th-1110", "config": "vless://sample-uuid@true10.node.com:443?security=tls&sni=dls.trueid.net#TRUE10" }
     ]
