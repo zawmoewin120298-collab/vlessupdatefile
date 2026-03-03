@@ -2,6 +2,7 @@
   "vpn_configs": {
     "🇲🇲_MYANMAR_GROUP_10_FILES": [
       { "name": "🇲🇲 MM-01", "config": "vmess://eyJhZGQiOiI4OS4zMS4xMjAuMTkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwb3J0YWwtYXMucnVpamllbmV0d29ya3MuY29tIiwiaWQiOiI0NDUzNzU5NS05Y2NjLTRiODMtODkzNi01ZjlhZDMyMjkwMTkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiTXlhbm1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=" },
+      { "name": "🇹🇭 TRUE-08", "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@support.zoom.us:443?path=%2FgetWorkerUpdates&security=tls&encryption=none&insecure=0&host=support.opentwitter.de5.net&type=ws&allowInsecure=0&sni=support.opentwitter.de5.net#ko" },
       { "name": "🇹🇭 TRUE-01", "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.28.141:443?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#TRUE01" },
       { "name": "🇹🇭 TROE-02", "config": "vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@104.18.28.141:8443?path=%2F&security=tls&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#TRUE" },
       { "name": "🇹🇭 TRUE06-1110", "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@support.zoom.us:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=node1-8hc.pages.dev&fp=random&type=ws&allowInsecure=0&sni=node1-8hc.pages.dev#TRUE06" },
