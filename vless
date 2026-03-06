@@ -13,8 +13,8 @@
       { "name": "🇹🇭 AIS-02 (Railway)", "config": "vless://a0021665-e5db-4aff-8722-68fb98e403ba@mm-website-vpn-production.up.railway.app:443?encryption=none&security=tls&type=ws&host=mm-website-vpn-production.up.railway.app&path=%2Fzawmoewin#AIS02" },
       { "name": "🇹🇭 AIS-03 (Railway)", "config": "vless://a0021665-e5db-4aff-8722-68fb98e403ba@mm-website-vpn-production.up.railway.app:443?path=%2Fzawmoewin&security=tls&encryption=none&insecure=1&host=mm-website-vpn-production.up.railway.app&type=ws&allowInsecure=1&sni=www.speedtest.net#AIS03" },
       { "name": "🇹🇭 AIS-TRUE-04", "config": "vless://7bd180e8-1142-4387-93f5-03e8d750a896@support.zoom.us:443?path=%2F7bd180e8&security=tls&encryption=none&insecure=1&host=cdn4.networkd.workers.dev&type=ws&allowInsecure=1&sni=cdn4.networkd.workers.dev#TRUE04" },
-      { "name": "🇲🇲 MM-10", "config": "vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@www.ptnk.sry-vpn.com:80?encryption=none&type=ws&headerType=none&host=portal-as.ruijienetworks.com&fp=chrome&path=%2Fvless#MM10" },
-      { "name": "🇹🇭 th-1110", "config": "vless://sample-uuid@true10.node.com:443?security=tls&sni=dls.trueid.net#TRUE10" }
+      { "name": "🇲🇲 MM-01", "config": "vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@www.ptnk.sry-vpn.com:80?encryption=none&type=ws&headerType=none&host=portal-as.ruijienetworks.com&fp=chrome&path=%2Fvless#MM10" },
+      { "name": "🇲🇲 02", config": "vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@www.ptnk.sry-vpn.com:80?path=%2Fvless&security=none&encryption=none&host=portal-as.ruijienetworks.com&type=ws#Myanmar01"},
     ]
   }
 }
