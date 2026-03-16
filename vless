@@ -23,6 +23,7 @@
       { "name": "🛜TRUE-22", "config": "vless://351c9981-04b6-4103-aa4b-864aa9c91469@104.18.28.141:2096?path=%2F&security=tls&encryption=none&insecure=1&host=speedtestnet-bce.pages.dev&fp=chrome&type=ws&allowInsecure=1&sni=speedtestnet-bce.pages.dev#TRUE-22" },
       { "name": "🛜TRUE-23", "config": "vless://351c9981-04b6-4103-aa4b-864aa9c91469@104.18.28.141:443?path=%2F&security=tls&encryption=none&insecure=1&host=speedtestnet-bce.pages.dev&fp=chrome&type=ws&allowInsecure=1&sni=speedtestnet-bce.pages.dev#TRUE-23" },
       { "name": "🛜TRUE-24", "config": "vless://351c9981-04b6-4103-aa4b-864aa9c91469@104.18.28.141:2096?path=%2F&security=tls&encryption=none&insecure=1&host=speedtestnet-bce.pages.dev&fp=chrome&type=ws&allowInsecure=1&sni=speedtestnet-bce.pages.dev#TRUE-24" },
+      { "name": "🪐TRUE -25", config": "vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5vZGUtanAtMS5teWJlLnN0IiwiaWQiOiI3ODE5ZTQzOS1mMDg1LTRhYmItOWI4NS0zMDRhYzM1ZDIzOTYiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJ0cnVlIFZtZXNzIC0gSlAgMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJub2RlLWpwLTEubXliZS5zdCIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9"},
       { "name": "🇹🇭 TRUE-08", "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@support.zoom.us:443?path=%2FgetWorkerUpdates&security=tls&encryption=none&insecure=0&host=support.opentwitter.de5.net&type=ws&allowInsecure=0&sni=support.opentwitter.de5.net#ko" },
       { "name": "🇹🇭 TRUE-01", "config": "vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.28.141:443?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#TRUE01" },
       { "name": "🇹🇭 TROE-02", "config": "vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@104.18.28.141:8443?path=%2F&security=tls&encryption=none&insecure=1&host=zh.hollowspot.ir&type=ws&allowInsecure=1&sni=zh.hollowspot.ir#TRUE" },
@@ -49,3 +50,4 @@
     ]
   }
 }
+{ "name": "TRUE -25", config": "vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5vZGUtanAtMS5teWJlLnN0IiwiaWQiOiI3ODE5ZTQzOS1mMDg1LTRhYmItOWI4NS0zMDRhYzM1ZDIzOTYiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJ0cnVlIFZtZXNzIC0gSlAgMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJub2RlLWpwLTEubXliZS5zdCIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9"},
