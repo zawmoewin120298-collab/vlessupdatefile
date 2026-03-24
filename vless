@@ -75,7 +75,7 @@
       { "name": "🇹🇭 -TRUE-04", "config": "vless://7bd180e8-1142-4387-93f5-03e8d750a896@support.zoom.us:443?path=%2F7bd180e8&security=tls&encryption=none&insecure=1&host=cdn4.networkd.workers.dev&type=ws&allowInsecure=1&sni=cdn4.networkd.workers.dev#TRUE04" },
       { "name": "🇲🇲 MM-01", "config": "vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@www.ptnk.sry-vpn.com:80?encryption=none&type=ws&headerType=none&host=portal-as.ruijienetworks.com&fp=chrome&path=%2Fvless#MM10" },
       { "name": "🇲🇲 -02", "config": "vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@www.ptnk.sry-vpn.com:80?path=%2Fvless&security=none&encryption=none&host=portal-as.ruijienetworks.com&type=ws#Myanmar02" },
-      { "name": "🇲🇲 Myanmar-03", "config": "vmess://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJwb3J0YWwtYXMucnVpamllbmV0d29ya3MuY29tIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsInBvcnQiOiI4MCIsInBzIjoibXlhbm1hciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==" }
+      { "name": "🎮 AIS-01", "config": "vless://ba6849c0-6e9f-4be7-b69f-a7f6d47affa4@opspeedtestnet.up.railway.app:443?path=%2Fzawmoewin&security=tls&encryption=none&insecure=1&host=opspeedtestnet.up.railway.app&type=ws&allowInsecure=1&sni=www.speedtest.net#ML" },
     ]
   }
 }
