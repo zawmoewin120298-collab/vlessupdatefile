@@ -46,6 +46,19 @@
       { "name": "🇸🇬allowed-06", "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@myvless-production-b444.up.railway.app:443?path=%2FgetWorkerUpdates&security=tls&encryption=none&insecure=1&host=myvless-production-b444.up.railway.app&type=ws&allowInsecure=1&sni=myvless-production-b444.up.railway.app#myvless%20sg" },
       { "name": "🇲🇲 MM-01", "config": "vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@www.ptnk.sry-vpn.com:80?encryption=none&type=ws&headerType=none&host=portal-as.ruijienetworks.com&fp=chrome&path=%2Fvless#MM10" },
       { "name": "🎮 AIS-01", "config": "vless://ba6849c0-6e9f-4be7-b69f-a7f6d47affa4@opspeedtestnet.up.railway.app:443?path=%2Fzawmoewin&security=tls&encryption=none&insecure=1&host=opspeedtestnet.up.railway.app&type=ws&allowInsecure=1&sni=www.speedtest.net#ML" }
+      {
+  "name": "🇸🇬 allowed -06",
+  "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@myvless-production-b444.up.railway.app:443?path=%2FgetWorkerUpdates&security=tls&encryption=none&insecure=1&host=myvless-production-b444.up.railway.app&type=ws&allowInsecure=1&sni=myvless-production-b444.up.railway.app#myvless%20sg"
+}
+{
+  "name": "🇸🇬TRUE-01",
+  "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@support.zoom.us:443?path=%2FgetWorkerUpdates&security=tls&encryption=none&insecure=1&host=myvless-production-b444.up.railway.app&type=ws&allowInsecure=1&sni=myvless-production-b444.up.railway.app#myvless%20sg"
+}
+{
+  "name": "🇸🇬AIS-04",
+  "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@support.zoom.us:443?path=%2FgetWorkerUpdates&security=tls&encryption=none&insecure=1&host=myvless-production-b444.up.railway.app&type=ws&allowInsecure=1&sni=myvless-production-b444.up.railway.app#myvless%20sg"
+}
+
     ]
   }
 }
