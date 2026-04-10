@@ -4,7 +4,7 @@
   "servers": {
     "AIS": {
       "domain": "ais.warp.com",
-      "ip": "162.159.193.10",
+      "ip": "www.speedtest.net",
       "port": 443,
       "remark": "AIS-THAILAND",
       "network": "tcp",
