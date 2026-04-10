@@ -1,56 +1,55 @@
 {
-  "version": 2,
-  "updated": 1700000000000,
-  "servers": {
-    "AIS": {
-      "domain": "ais.warp.com",
-      "ip": "www.speedtest.net",
-      "port": 443,
-      "remark": "AIS-THAILAND",
-      "network": "tcp",
-      "security": "tls"
+  "version": 3,
+  "mcc_servers": {
+    "520": {
+      "country": "Thailand",
+      "isp_servers": {
+        "TRUE": {
+          "address": "104.17.150.99",
+          "port": 80,
+          "uuid": "388a6c57-87e7-420b-afe2-b3eb670fd7da",
+          "sni": "vip.yaml7.ggff.net",
+          "host": "vip.yaml7.ggff.net",
+          "security": "none"
+        },
+        "AIS": {
+          "address": "162.159.193.10",
+          "port": 443,
+          "uuid": "388a6c57-87e7-420b-afe2-b3eb670fd7da",
+          "sni": "ais.warp.com",
+          "host": "ais.warp.com",
+          "security": "tls"
+        },
+        "DTAC": {
+          "address": "162.159.195.10",
+          "port": 443,
+          "uuid": "388a6c57-87e7-420b-afe2-b3eb670fd7da",
+          "sni": "dtac.warp.com",
+          "host": "dtac.warp.com",
+          "security": "tls"
+        }
+      }
     },
-    "TRUE": {
-      "domain": "true.warp.com",
-      "ip": "162.159.192.10",
-      "port": 443,
-      "remark": "TRUE-THAILAND"
-    },
-    "DTAC": {
-      "domain": "dtac.warp.com",
-      "ip": "162.159.195.10",
-      "port": 443,
-      "remark": "DTAC-THAILAND"
+    "414": {
+      "country": "Myanmar",
+      "isp_servers": {
+        "MPT": {
+          "address": "188.114.97.57",
+          "port": 443,
+          "sni": "mpt.mm.warp.com"
+        },
+        "ATOM": {
+          "address": "188.114.96.57",
+          "port": 443,
+          "sni": "atom.mm.warp.com"
+        }
+      }
     }
   },
-  "free_ips": [
-    "188.114.97.57",
-    "188.114.96.57",
-    "104.16.0.1",
-    "104.16.0.2"
-  ],
   "proxy_domains": [
     "google.com",
     "youtube.com",
     "facebook.com",
-    "instagram.com",
-    "twitter.com",
-    "tiktok.com",
-    "cloudflare.com",
-    "1.1.1.1"
-  ],
-  "direct_domains": [
-    "ais.co.th",
-    "true.th",
-    "dtac.co.th",
-    "localhost",
-    "192.168.",
-    "10.0.0."
-  ],
-  "fallback": {
-    "domain": "cloudflare.com",
-    "ip": "1.1.1.1",
-    "port": 443,
-    "remark": "CLOUDFLARE-FALLBACK"
-  }
+    "zoom.com"
+  ]
 }
