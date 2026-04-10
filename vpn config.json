@@ -1,55 +1,30 @@
 {
-  "version": 3,
-  "mcc_servers": {
-    "520": {
-      "country": "Thailand",
-      "isp_servers": {
-        "TRUE": {
-          "address": "104.17.150.99",
-          "port": 80,
-          "uuid": "388a6c57-87e7-420b-afe2-b3eb670fd7da",
-          "sni": "vip.yaml7.ggff.net",
-          "host": "vip.yaml7.ggff.net",
-          "security": "none"
-        },
-        "AIS": {
-          "address": "162.159.193.10",
-          "port": 443,
-          "uuid": "388a6c57-87e7-420b-afe2-b3eb670fd7da",
-          "sni": "ais.warp.com",
-          "host": "ais.warp.com",
-          "security": "tls"
-        },
-        "DTAC": {
-          "address": "162.159.195.10",
-          "port": 443,
-          "uuid": "388a6c57-87e7-420b-afe2-b3eb670fd7da",
-          "sni": "dtac.warp.com",
-          "host": "dtac.warp.com",
-          "security": "tls"
-        }
-      }
+  "version": 4,
+  "servers": {
+    "520_TRUE": {
+      "ip": "104.17.150.99",
+      "port": 80,
+      "domain": "vip.yaml7.ggff.net"
     },
-    "414": {
-      "country": "Myanmar",
-      "isp_servers": {
-        "MPT": {
-          "address": "188.114.97.57",
-          "port": 443,
-          "sni": "mpt.mm.warp.com"
-        },
-        "ATOM": {
-          "address": "188.114.96.57",
-          "port": 443,
-          "sni": "atom.mm.warp.com"
-        }
-      }
+    "520_AIS": {
+      "ip": "162.159.193.10",
+      "port": 443,
+      "domain": "ais.warp.com"
+    },
+    "520_DTAC": {
+      "ip": "162.159.195.10",
+      "port": 443,
+      "domain": "dtac.warp.com"
+    },
+    "414_MPT": {
+      "ip": "188.114.97.57",
+      "port": 443,
+      "domain": "mpt.mm.warp.com"
     }
   },
-  "proxy_domains": [
-    "google.com",
-    "youtube.com",
-    "facebook.com",
-    "zoom.com"
+  "free_ips": [
+    "188.114.97.57",
+    "188.114.96.57",
+    "104.16.0.1"
   ]
 }
