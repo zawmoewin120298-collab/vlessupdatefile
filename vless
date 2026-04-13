@@ -88,6 +88,7 @@
 { "name": "For all SIM cards 15", "config": "vless://6e5c00c5-77ee-4fdb-8388-bd8e5d9db16e@support.zoom.us:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=warpspeedtestnet.pages.dev&fp=chrome&type=ws&allowInsecure=1&sni=warpspeedtestnet.pages.dev#For%20all%20SIM%20cards%2015" },
 { "name": "For all SIM cards 16", "config": "vless://6e5c00c5-77ee-4fdb-8388-bd8e5d9db16e@support.zoom.us:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=warpspeedtestnet.pages.dev&fp=chrome&type=ws&allowInsecure=1&sni=warpspeedtestnet.pages.dev#For%20all%20SIM%20cards%2016" },
 { "name": "for all SIM cards 17", "config": "vless://050fb692-dba7-4b69-b1fd-182c8e1c53eb@nl-6.flowersyellow.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SAw2LG0CxynFfpOpX9-5PZOxlz7eQloRLSnbQh9pRUs&security=reality&sni=www.samsung.com&type=tcp#🇳🇱for all SIM cards" },
+{ "name": "for all SIM Cared Ais-TRUE 18", "config": "vless://71bf1fdc-3a4f-4d84-abd2-be02d4959f17@mmvless-production-3c94.up.railway.app:443?path=%2Fzawmoewin&security=tls&encryption=none&insecure=1&host=mmvless-production-3c94.up.railway.app&type=ws&allowInsecure=1&sni=mmvless-production-3c94.up.railway.app#ais" },
     ]
   }
 }
