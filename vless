@@ -72,7 +72,7 @@
       { "name": "🇹🇭 -TRUE-04", "config": "vless://7bd180e8-1142-4387-93f5-03e8d750a896@support.zoom.us:443?path=%2F7bd180e8&security=tls&encryption=none&insecure=1&host=cdn4.networkd.workers.dev&type=ws&allowInsecure=1&sni=cdn4.networkd.workers.dev#TRUE04" },
       { "name": "🇲🇲 MM-01", "config": "vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@www.ptnk.sry-vpn.com:80?encryption=none&type=ws&headerType=none&host=portal-as.ruijienetworks.com&fp=chrome&path=%2Fvless#MM10" },
       { "name": "🇲🇲 -02", "config": "vless://4dc817f7-2595-4330-a1b0-e35e7c6b803a@www.ptnk.sry-vpn.com:80?path=%2Fvless&security=none&encryption=none&host=portal-as.ruijienetworks.com&type=ws#Myanmar02" },
-      { "name": "🎮 AIS-01", "config": "vless://ba6849c0-6e9f-4be7-b69f-a7f6d47affa4@opspeedtestnet.up.railway.app:443?path=%2Fzawmoewin&security=tls&encryption=none&insecure=1&host=opspeedtestnet.up.railway.app&type=ws&allowInsecure=1&sni=www.speedtest.net#ML" },
+      
       { "name": "For all SIM cards 01", "config": "vless://6e5c00c5-77ee-4fdb-8388-bd8e5d9db16e@172.65.234.54:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=warpspeedtestnet.pages.dev&fp=chrome&type=ws&allowInsecure=1&sni=warpspeedtestnet.pages.dev#For%20all%20SIM%20cards%2001" },
 { "name": "For all SIM cards 02", "config": "vless://6e5c00c5-77ee-4fdb-8388-bd8e5d9db16e@104.19.77.46:443?path=%2F&security=tls&encryption=none&insecure=0&host=warpspeedtestnet.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=warpspeedtestnet.pages.dev#For%20all%20SIM%20cards%2002" },
 { "name": "For all SIM cards 03", "config": "vless://6e5c00c5-77ee-4fdb-8388-bd8e5d9db16e@104.18.182.34:443?path=%2F&security=tls&encryption=none&insecure=0&host=warpspeedtestnet.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=warpspeedtestnet.pages.dev#For%20all%20SIM%20cards%2003" },
@@ -89,6 +89,7 @@
 { "name": "For all SIM cards 16", "config": "vless://6e5c00c5-77ee-4fdb-8388-bd8e5d9db16e@support.zoom.us:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=warpspeedtestnet.pages.dev&fp=chrome&type=ws&allowInsecure=1&sni=warpspeedtestnet.pages.dev#For%20all%20SIM%20cards%2016" },
 { "name": "for all SIM cards 17", "config": "vless://050fb692-dba7-4b69-b1fd-182c8e1c53eb@nl-6.flowersyellow.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SAw2LG0CxynFfpOpX9-5PZOxlz7eQloRLSnbQh9pRUs&security=reality&sni=www.samsung.com&type=tcp#🇳🇱for all SIM cards" },
 { "name": "for all SIM Cared Ais-TRUE 18", "config": "vless://71bf1fdc-3a4f-4d84-abd2-be02d4959f17@mmvless-production-3c94.up.railway.app:443?path=%2Fzawmoewin&security=tls&encryption=none&insecure=1&host=mmvless-production-3c94.up.railway.app&type=ws&allowInsecure=1&sni=mmvless-production-3c94.up.railway.app#ais" },
+{ "name": "For all SIM cards game 19", "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@cloudflarengrokvless-production-c3bc.up.railway.app:443?path=%2FgetWorkerUpdates&security=tls&encryption=none&insecure=1&host=cloudflarengrokvless-production-c3bc.up.railway.app&type=ws&allowInsecure=1&sni=cloudflarengrokvless-production-c3bc.up.railway.app#Cloudflare-Premium" },
     ]
   }
 }
