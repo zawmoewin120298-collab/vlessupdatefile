@@ -58,7 +58,7 @@
       { "name": "🇹🇭 TRUE 56", "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@support.zoom.us:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=1&host=speedtestnetc.pages.dev&type=ws&allowInsecure=1&sni=speedtestnetc.pages.dev#freeyx.2" },
       
 
-     { "name": "true_UDP_package 70", "config": "vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@www.truemove.co.th.bigccoth.indevs.in:443?path=%2F&security=tls&encryption=none&insecure=1&host=www.truemove.co.th.bigccoth.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=www.truemove.co.th.bigccoth.indevs.in#true_UDP_package" },
+     { "name": "true_UDP_package 01", "config": "vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@www.truemove.co.th.bigccoth.indevs.in:443?path=%2F&security=tls&encryption=none&insecure=1&host=www.truemove.co.th.bigccoth.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=www.truemove.co.th.bigccoth.indevs.in#true_UDP_package" },
 
 
       { "name": "🇸🇬 AIS-01", "config": "vless://d342d11e-d424-4583-b36e-524ab1f0afa4@www.speedtest.net:443?encryption=none&security=tls&type=ws&sni=m.speedtest.net.speedtestnet.ggff.net&host=m.speedtest.net.speedtestnet.ggff.net&path=%2F%3Fed%3D2048#AIS01" },
