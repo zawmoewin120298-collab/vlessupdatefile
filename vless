@@ -59,7 +59,6 @@
       
 
      { "name": "true_UDP_package 01", "config": "vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@www.truemove.co.th.bigccoth.indevs.in:443?path=%2F&security=tls&encryption=none&insecure=1&host=www.truemove.co.th.bigccoth.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=www.truemove.co.th.bigccoth.indevs.in#true_UDP_package" },
-     { "name": "true_UDP_ 02", "config": "vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@www.truemove.co.th.bigccoth.indevs.in:443?mode=gun&security=tls&encryption=none&authority=www.truemove.co.th.bigccoth.indevs.in&insecure=1&fp=chrome&type=grpc&serviceName=%2F&allowInsecure=1&sni=www.truemove.co.th.bigccoth.indevs.in#TRUE_UDP%2002" },
 
 
 
@@ -73,7 +72,7 @@
       { "name": "✅ AIS-07", "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@172.67.218.123:443?path=%2FeyJqdW5rIjoidTJjc3F5OEUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=support.ookla.com.speedtestnet.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=SupporT.OOkLA.COm.speEdTeSTnET.ggff.neT#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20%3A%20443" },
       { "name": "AIS🇸🇬=21🎮*777*7068#36ဘတ်ကျမယ်", "config": "vless://35f3e91e-0ff6-457f-a541-b85c2ec5f394@speedtestnet.up.railway.app:443?path=%2FgetWorkerUpdates&security=tls&encryption=none&insecure=1&host=speedtestnet.up.railway.app&type=ws&allowInsecure=1&sni=speedtest.net#speedtestnet.up.railway.app" },
       { "name": "✅ AIS-20", "config": "trojan://zaw123@support.ookla.com.speedtestnet.ggff.net:2083?path=%2FeyJqdW5rIjoiU3A0TjNQQklyaVIiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=support.ookla.com.speedtestnet.ggff.net&fp=chrome&type=ws&allowInsecure=0&sni=sUppORT.oOkLA.COm.spEEdtEStNet.gGFF.nEt#%F0%9F%92%A6%2019%20-%20Trojan%20-%20Domain%20%3A%202083" },
-      { "name": "AIS✅ -8", "config": "vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?path=%2F&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#sg" },     
+      { "name": "AIS✅ -8", "config": "vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.150.99:80?path=%2F&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#sg" },     ,
       { "name": "🇸🇬 AIS-7", "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@myvless-production-b444.up.railway.app:443?path=%2FgetWorkerUpdates&security=tls&encryption=none&insecure=1&host=myvless-production-b444.up.railway.app&type=ws&allowInsecure=1&sni=www.speedtest.net#ais%20sg" },
       { "name": "🇸🇬 TRUE-8", "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@support.zoom.us:443?path=%2FgetWorkerUpdates&security=tls&encryption=none&insecure=1&host=myvless-production-b444.up.railway.app&type=ws&allowInsecure=1&sni=myvless-production-b444.up.railway.app#true%20sg" },
       { "name": "🇸🇬 allowed-9", "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@myvless-production-b444.up.railway.app:443?path=%2FgetWorkerUpdates&security=tls&encryption=none&insecure=1&host=myvless-production-b444.up.railway.app&type=ws&allowInsecure=1&sni=myvless-production-b444.up.railway.app#myvless%20sg" },
