@@ -3,7 +3,7 @@
 
     {
       "name": "Online VIP_01",
-      "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@back4appvless-production.up.railway.app:443?encryption=none&flow=none&type=ws&host=back4appvless-production.up.railway.app&headerType=none&path=%2Fspeedtest&security=tls&sni=www.speedtest.net#MM-TH-B4A"
+      "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@back4appvless-production.up.railway.app:443?path=%2Fspeedtest&security=tls&encryption=none&insecure=1&host=back4appvless-production.up.railway.app&type=ws&allowInsecure=1&sni=www.speedtest.net#MM-TH-B4A-Cloudflare"
     },
     {
       "name": "📶 -44",
