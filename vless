@@ -241,7 +241,7 @@
     },
     {
       "name": "for all SIM Cards 20",
-      "config": "vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@open.speedtest.net.fastlyspeedtestnet.ggff.net:443?type=ws&host=open.speedtest.net.fastlyspeedtestnet.ggff.net&security=tls&sni=open.speedtest.net.fastlyspeedtestnet.ggff.net&fp=chrome&allowInsecure=1#edgetunnel"
+      "config": "vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@support.zoom.us:443?type=ws&host=open.speedtest.net.fastlyspeedtestnet.ggff.net&security=tls&sni=open.speedtest.net.fastlyspeedtestnet.ggff.net&fp=chrome&allowInsecure=1#edgetunnel"
     }
   ]
 }
