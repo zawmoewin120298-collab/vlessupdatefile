@@ -4,7 +4,7 @@
 
     {
       "name": "Online VIP 02",
-      "config": "vless://363bf3d5-e585-4cac-adec-1bbf02971da5@my-vless-pubg-production-c680.up.railway.app:443?encryption=none&flow=none&type=ws&host=my-vless-pubg-production-c680.up.railway.app&headerType=none&path=%2FgetWorkerUpdates&security=tls&sni=www.speedtest.net#Ais%F0%9F%9F%A2%F0%9F%87%B9%F0%9F%87%AD"
+      "config": "vless://363bf3d5-e585-4cac-adec-1bbf02971da5@my-vless-pubg-production-c680.up.railway.app:443?path=%2FgetWorkerUpdates&security=tls&encryption=none&insecure=1&host=my-vless-pubg-production-c680.up.railway.app&type=ws&allowInsecure=1&sni=www.speedtest.net#Ais%F0%9F%9F%A2%F0%9F%87%B9%F0%9F%87%AD"
     },
 
     {
