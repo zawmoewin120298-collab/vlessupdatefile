@@ -1,15 +1,15 @@
-
-
 {
-    "name": "Online VIP 02",
-    "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@my-vless-pubg-production-c680.up.railway.app:443?encryption=none&flow=none&type=ws&host=my-vless-pubg-production-c680.up.railway.app&headerType=none&path=%2Fspeedtest&security=tls&sni=www.speedtest.net#pubg%20%20%20MM-TH-B4%E1%80%85%E1%80%99%E1%80%BA%20%E1%80%9B%E1%80%90%E1%80%9A%E1%80%BA"
-    },
-{
-  "servers": [
+  "servers": ]
     {
       "name": "Online VIP_01",
       "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@back4appvless-production.up.railway.app:443?path=%2Fspeedtest&security=tls&encryption=none&insecure=1&host=back4appvless-production.up.railway.app&type=ws&allowInsecure=1&sni=www.speedtest.net#MM-TH-B4A-Cloudflare"
     },
+    
+  {
+    "name": "Online VIP 02",
+    "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@my-vless-pubg-production-c680.up.railway.app:443?encryption=none&flow=none&type=ws&host=my-vless-pubg-production-c680.up.railway.app&headerType=none&path=%2Fspeedtest&security=tls&sni=www.speedtest.net#pubg%20%20%20MM-TH-B4%E1%80%85%E1%80%99%E1%80%BA%20%E1%80%9B%E1%80%90%E1%80%9A%E1%80%BA"
+    },
+
     {
       "name": "📶 -44",
       "config": "vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@support.zoom.us:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=0&host=terazhediii.info&type=ws&allowInsecure=0&sni=terazhediii.info#%F0%9F%87%BA%F0%9F%87%B8%20ShatakVPN%20736066"
