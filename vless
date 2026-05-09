@@ -11,7 +11,7 @@
 
     {
       "name": "Online VIP 03",
-      "config": "vless-pubg-production-c680.up.railway.app:443?path=%2Fspeedtest&security=tls&encryption=none&insecure=1&host=my-vless-pubg-production-c680.up.railway.app&type=ws&allowInsecure=1&sni=www.speedtest.net#pubg%20%20%20MM-TH-B4%E1%80%85%E1%80%99%E1%80%BA%20%E1%80%9B%E1%80%90%E1%80%9A%E1%80%BA"
+      "config": "vless://pubg-production-c680.up.railway.app:443?path=%2Fspeedtest&security=tls&encryption=none&insecure=1&host=my-vless-pubg-production-c680.up.railway.app&type=ws&allowInsecure=1&sni=www.speedtest.net#pubg%20%20%20MM-TH-B4%E1%80%85%E1%80%99%E1%80%BA%20%E1%80%9B%E1%80%90%E1%80%9A%E1%80%BA"
     },
    
     {
