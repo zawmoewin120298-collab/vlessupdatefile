@@ -6,7 +6,7 @@
     },
     {
       "name": "Online VIP 02",
-      "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@my-vless-pubg-production-c680.up.railway.app:443?path=%2Fspeedtest&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=my-vless-pubg-production-c680.up.railway.app&fp=chrome&type=ws&allowInsecure=1&sni=www.speedtest.net#MM-TH-B4A-Cloudflare
+      "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@my-vless-pubg-production-c680.up.railway.app:443?path=%2Fspeedtest&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=my-vless-pubg-production-c680.up.railway.app&fp=chrome&type=ws&allowInsecure=1&sni=www.speedtest.net#MM-TH-B4A-Cloudflare"
     },
 
     {
