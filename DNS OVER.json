@@ -1,1 +1,8 @@
+{
+  "doh_servers": [
+    "https://cloudflare-dns.com/dns-query?name=",
+    "https://dns.google/resolve?name=",
+    "https://dns-nyc.aaflalo.me/dns-query?name="
+  ]
+}
 
