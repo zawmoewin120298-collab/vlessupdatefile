@@ -7,7 +7,7 @@
     {
       "name": "Online VIP 02 (All SIM)",
       "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@my-vless-pubg-production-c680.up.railway.app:443?path=/speedtest&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=my-vless-pubg-production-c680.up.railway.app&fp=chrome&type=ws&allowInsecure=1&sni=[address]#VIP-02"
-    },
+    }
   
   ]
 }
