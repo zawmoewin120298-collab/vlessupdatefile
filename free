@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "Online VIP_01",
-      "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@back4appvless-production.up.railway.app:443?path=%2Fspeedtest&security=tls&encryption=none&insecure=1&host=back4appvless-production.up.railway.app&type=ws&allowInsecure=1&sni=www.speedtest.net#MM-TH-B4A-Cloudflare"
+      "config": "vless://8c4604ef-749c-4b56-adf1-7da405002a21@[address]:2053?encryption=none&type=ws&host=qyi.fqjd663.ggff.net&headerType=none&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net#%F0%9F%87%B8%F0%9F%87%ACVless-SG-3251"
     },
     {
       "name": "Online VIP 02",
