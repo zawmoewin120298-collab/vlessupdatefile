@@ -1,13 +1,12 @@
 {
   "servers": [
     {
-      "name": "Online VIP_01 (AIS/True)",
-      "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@my-vless-pubg-production-c680.up.railway.app:443?encryption=none&flow=none&type=ws&host=my-vless-pubg-production-c680.up.railway.app&headerType=none&path=/speedtest.net&security=tls&sni=[address]#VIP-01"
+      "name": "Online VIP_01 (AIS Fix)",
+      "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@my-vless-pubg-production-c680.up.railway.app:443?encryption=none&flow=none&type=ws&host=[address]&headerType=none&path=%2Fspeedtest.net&security=tls&sni=[address]&insecure=1&fp=chrome#VIP-01"
     },
     {
-      "name": "Online VIP 02 (All SIM)",
-      "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@my-vless-pubg-production-c680.up.railway.app:443?path=/speedtest&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=my-vless-pubg-production-c680.up.railway.app&fp=chrome&type=ws&allowInsecure=1&sni=[address]#VIP-02"
+      "name": "Online VIP 02 (All SIM Fix)",
+      "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@my-vless-pubg-production-c680.up.railway.app:443?path=%2Fspeedtest&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=1&host=[address]&fp=chrome&type=ws&allowInsecure=1&sni=[address]#VIP-02"
     }
-  
   ]
 }
