@@ -6,7 +6,7 @@
     },
     {
       "name": "AIS FREE",
-      "config": "vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@cloudflare-ech.com:443?encryption=none&flow=none&type=ws&host=open.speedtest.net.fastlyspeedtestnet.ggff.net&headerType=none&security=tls&fp=chrome&sni=open.speedtest.net.fastlyspeedtestnet.ggff.net#edgetunnel"
+      "config": "vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@cloudflare-ech.com:443?security=tls&encryption=none&insecure=0&host=open.speedtest.net.fastlyspeedtestnet.ggff.net&fp=chrome&type=ws&allowInsecure=0&flow=none&sni=open.speedtest.net.fastlyspeedtestnet.ggff.net#edgetunnel%22"
     }
   ],
   "version": "1.0",
