@@ -1,6 +1,15 @@
 {
-    "version": "1.1",
-    "url": "https://github.com/yourname/yourrepo/releases/download/v1.1/app.apk",
-    "vless_link": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@edge-vless-production.up.railway.app:443?path=%2Fwww.speedtest.net&security=tls&encryption=none&insecure=1&host=edge-vless-production.up.railway.app&type=ws&allowInsecure=1&sni=www.speedtest.net#MM-TH-Premium-Active"
+  "servers": [
+    {
+      "name": "AIS 5G VIP",
+      "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@edge-vless-production.up.railway.app:443?path=%2Fwww.speedtest.net&security=tls&encryption=none&insecure=1&host=edge-vless-production.up.railway.app&type=ws&allowInsecure=1&sni=www.speedtest.net#MM-TH-Premium-Active"
+    },
+    {
+      "name": "DTAC FREE",
+      "config": "vless://6a8b7c9d-1e2f-3a4b-5c6d-7e8f9a0b1c2d@104.26.3.21:80?path=%2Fdtac-bug&security=none&encryption=none&type=ws#DTAC%20FREE"
+    }
+  ],
+  "version": "1.0",
+  "url": "https://raw.githubusercontent.com/zawmoewin120298-collab/vlessupdatefile/refs/heads/main/vless.json",
+  "vless_link": ""
 }
-
