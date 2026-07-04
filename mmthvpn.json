@@ -1,16 +1,12 @@
 {
-  "version": "8.1824",
-  "url": "https://github.com/zawmoewin120298-collab/vlessupdatefile/raw/main/MM-TH_Premium.apk",
   "servers": [
     {
-      "name": "MM-TH Premium Active 01",
-      "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@edge-vless-production.up.railway.app:443?encryption=none&flow=none&type=ws&host=edge-vless-production.up.railway.app&headerType=none&path=%2Fwww.speedtest.net&security=tls&sni=www.speedtest.net#MM-TH-Premium-Active-01"
+      "name": "မြန်မာ ဆာဗာ ၀၁",
+      "config": "vless://your-config-here..."
     },
     {
-      "name": "MM-TH Premium Active 02",
-      "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@edge-vless-production.up.railway.app:443?encryption=none&flow=none&type=ws&host=edge-vless-production.up.railway.app&headerType=none&path=%2Fwww.speedtest.net&security=tls&sni=www.speedtest.net#MM-TH-Premium-Active-02"
+      "name": "ထိုင်း ဆာဗာ ၀၂",
+      "config": "vless://your-config-here..."
     }
-    // ... စသဖြင့် သင့်ရဲ့ Server ၃၀ လုံးကို ဒီ array ထဲမှာ ဆက်ထည့်ပေးပါ ...
   ]
 }
-
