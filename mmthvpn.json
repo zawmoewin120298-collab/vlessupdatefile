@@ -1,8 +1,8 @@
 {
   "servers": [
     {
-      "name": "မြန်မာ ဆာဗာ ၀၁",
-      "config": "vless://your-config-here..."
+      "name": "AIS VIP 01",
+      "config": "vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6IjgwIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJwYXRoIjoiXC9jY3R2MTMubTN1OCIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJwcyI6IvCfh6/wn4e1IFZJUCIsInYiOiIyIn0="
     },
     {
       "name": "ထိုင်း ဆာဗာ ၀၂",
