@@ -7,6 +7,7 @@
     {
       "name": "AIS VIP 02",
       "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@cloudflared-production-0804.up.railway.app:443?encryption=none&type=ws&host=cloudflared-production-0804.up.railway.app&headerType=none&security=tls&sni=www.speedtest.net#VIP"
+    },
       {
       "name": "AIS VIP 03",
       "config": "vless://..."
