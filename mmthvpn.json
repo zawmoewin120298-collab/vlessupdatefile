@@ -5,8 +5,8 @@
       "config": "vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6IjgwIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJwYXRoIjoiXC9jY3R2MTMubTN1OCIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJwcyI6IvCfh6/wn4e1IFZJUCIsInYiOiIyIn0="
     },
     {
-      "name": "ထိုင်း ဆာဗာ ၀၂",
-      "config": "vless://your-config-here..."
+      "name": "AIS VIP 02",
+      "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@cloudflared-production-0804.up.railway.app:443?encryption=none&type=ws&host=cloudflared-production-0804.up.railway.app&headerType=none&security=tls&sni=www.speedtest.net#VIP"
     }
   ]
 }
