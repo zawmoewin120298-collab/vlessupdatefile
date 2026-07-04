@@ -8,18 +8,13 @@
       "name": "AIS VIP 02",
       "config": "vless://f2e17b4d-22fd-44a4-90db-40649717be8e@cloudflared-production-0804.up.railway.app:443?encryption=none&type=ws&host=cloudflared-production-0804.up.railway.app&headerType=none&security=tls&sni=www.speedtest.net#VIP"
     },
-      {
+    {
       "name": "AIS VIP 03",
       "config": "vless://4ec724ff-cbe7-460e-8f9c-24afe9b21d52@vmess-cdn-vless-production.up.railway.app:443?encryption=none&type=ws&host=vmess-cdn-vless-production.up.railway.app&headerType=none&path=%2F&security=tls&sni=www.speedtest.net#zaw"
     },
     {
-      {
       "name": "AIS VIP 04",
-      "config": "vless://..."
-    },
-    {
-
-      
+      "config": "vless://YOUR_VLESS_CONFIG_HERE"
     }
   ]
 }
