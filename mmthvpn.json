@@ -10,7 +10,7 @@
     },
       {
       "name": "AIS VIP 03",
-      "config": "vless://..."
+      "config": "vless://4ec724ff-cbe7-460e-8f9c-24afe9b21d52@vmess-cdn-vless-production.up.railway.app:443?encryption=none&type=ws&host=vmess-cdn-vless-production.up.railway.app&headerType=none&path=%2F&security=tls&sni=www.speedtest.net#zaw"
     },
     {
       {
