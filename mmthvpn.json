@@ -1,43 +1,43 @@
 {
   "configs": [
     {
-      "name": "AIS FREE 17",
-      "config": "vless://YOUR_VLESS_CONFIG_HERE"
+      "name": "AIS TRUE FREE စမ် 01",
+      "config": "vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@support.zoom.us:443?path=%2FeyJqdW5rIjoibkFieHhVR3ZlNUkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=www.ais.co.th.mmthvpn.sryze.cc&fp=chrome&type=ws&allowInsecure=1&sni=WwW.aIS.cO.tH.MMthvPn.sRYzE.cC#%F0%9F%92%A6%201%20-%20VLESS%20-%20Domain%20%3A%20443"
     },
     {
-      "name": "AIS FREE 18",
-      "config": "vless://YOUR_VLESS_CONFIG_HERE"
+      "name": "AIS TRUE FREE စမ်02",
+      "config": "vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@www.speedtest.net:443?path=%2FeyJqdW5rIjoiYnZSbDNtazlXY2siLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=www.ais.co.th.mmthvpn.sryze.cc&fp=chrome&type=ws&allowInsecure=1&sni=WWW.ais.Co.TH.MMTHVPN.sryZe.cc#%F0%9F%92%A6%202%20-%20VLESS%20-%20Domain%20%3A%20443"
     },
     {
-      "name": "AIS FREE 19",
-      "config": "vless://YOUR_VLESS_CONFIG_HERE"
+      "name": "AIS TRUE FREE စမ်03",
+      "config": "vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@support.zoom.us:443?path=%2FeyJqdW5rIjoiSllza1piMndsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=www.ais.co.th.mmthvpn.sryze.cc&fp=chrome&type=ws&allowInsecure=1&sni=wWW.AiS.CO.th.MmTHVpN.SRyzE.Cc#%F0%9F%92%A6%203%20-%20VLESS%20-%20IPv4%20%3A%20443"
     },
     {
-      "name": "AIS FREE 30",
-      "config": "vless://YOUR_VLESS_CONFIG_HERE"
+      "name": "AIS TRUE FREE စမ်04",
+      "config": "vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@104.21.18.248:443?path=%2FeyJqdW5rIjoiZHVLM1JyN2dXUjQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=www.ais.co.th.mmthvpn.sryze.cc&fp=chrome&type=ws&allowInsecure=1&sni=www.aIS.co.tH.MmthvPN.SryZE.CC#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20%3A%20443"
     },
     {
-      "name": "AIS FREE 31",
-      "config": "vless://YOUR_VLESS_CONFIG_HERE"
+      "name": "AIS TRUE FREE စမ်05",
+      "config": "trojan://da3233c7-8f6c-4cb8-bb2f-50067a428eb6@support.zoom.us:443?path=%2FeyJqdW5rIjoiR3lEQXBxOWZwcCIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=1&host=www.ais.co.th.mmthvpn.sryze.cc&fp=chrome&type=ws&allowInsecure=1&sni=WwW.aIS.cO.tH.MMthvPn.sRYzE.cC#%F0%9F%92%A6%201%20-%20Trojan%20-%20Domain%20%3A%20443"
     },
     {
-      "name": "AIS FREE 32",
-      "config": "vless://YOUR_VLESS_CONFIG_HERE"
+      "name": "AIS TRUE FREE စမ်06",
+      "config": "trojan://da3233c7-8f6c-4cb8-bb2f-50067a428eb6@support.zoom.us:443?path=%2FeyJqdW5rIjoiUDNKMXkzdzFwdjlGVUZ4IiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=1&host=www.ais.co.th.mmthvpn.sryze.cc&fp=chrome&type=ws&allowInsecure=1&sni=WWW.ais.Co.TH.MMTHVPN.sryZe.cc#%F0%9F%92%A6%202%20-%20Trojan%20-%20Domain%20%3A%20443"
     },
     {
-      "name": "AIS FREE 33",
-      "config": "vless://YOUR_VLESS_CONFIG_HERE"
+      "name": "AIS TRUE FREE စမ်07",
+      "config": "trojan://da3233c7-8f6c-4cb8-bb2f-50067a428eb6@support.zoom.us:443?path=%2FeyJqdW5rIjoiTkhYalZ3cFdQSENaNnMiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=1&host=www.ais.co.th.mmthvpn.sryze.cc&fp=chrome&type=ws&allowInsecure=1&sni=wWW.AiS.CO.th.MmTHVpN.SRyzE.Cc#%F0%9F%92%A6%203%20-%20Trojan%20-%20IPv4%20%3A%20443"
     },
     {
-      "name": "AIS FREE 34",
-      "config": "vless://YOUR_VLESS_CONFIG_HERE"
+      "name": "AIS TRUE FREE စမ်08",
+      "config": "trojan://da3233c7-8f6c-4cb8-bb2f-50067a428eb6@104.21.18.248:443?path=%2FeyJqdW5rIjoiRDJoVXNpdEx1dTdrNWkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=1&host=www.ais.co.th.mmthvpn.sryze.cc&fp=chrome&type=ws&allowInsecure=1&sni=www.aIS.co.tH.MmthvPN.SryZE.CC#%F0%9F%92%A6%204%20-%20Trojan%20-%20IPv4%20%3A%20443"
     },
     {
-      "name": "AIS FREE 35",
-      "config": "vless://YOUR_VLESS_CONFIG_HERE"
+      "name": "AIS TRUE FREE စမ်09",
+      "config": "vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@www.ais.co.th.mmthvpn.sryze.cc:443?path=%2FeyJqdW5rIjoiZHVLM1JyN2dXUjQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=www.ais.co.th.mmthvpn.sryze.cc&fp=chrome&type=ws&allowInsecure=1&sni=www.ais.co.th.mmthvpn.sryze.cc#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20%3A%20443"
     },
     {
-      "name": "AIS FREE 36",
+      "name": "AIS TRUE FREE စမ်10",
       "config": "vless://YOUR_VLESS_CONFIG_HERE"
     }
   ]
