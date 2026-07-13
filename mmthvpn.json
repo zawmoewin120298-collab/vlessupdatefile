@@ -37,6 +37,22 @@
       "config": "vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@www.ais.co.th.mmthvpn.sryze.cc:443?path=%2FeyJqdW5rIjoiZHVLM1JyN2dXUjQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=www.ais.co.th.mmthvpn.sryze.cc&fp=chrome&type=ws&allowInsecure=1&sni=www.ais.co.th.mmthvpn.sryze.cc#%F0%9F%92%A6%204%20-%20VLESS%20-%20IPv4%20%3A%20443"
     },
     {
+      "name": "TRUE VDO GAME FREE 10",
+      "config": "vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@support.zoom.us:443?encryption=none&type=ws&host=mm.mmthvpn.sryze.cc&headerType=none&path=%2Fnginx%2Fproxy&security=tls&sni=mm.mmthvpn.sryze.cc#%E1%80%85%E1%80%99%E1%80%BA%E1%80%B8"
+      },
+    {
+      "name": "AIS TRUE FREE စမ်10",
+      "config": "vless://YOUR_VLESS_CONFIG_HERE"
+      },
+    {
+      "name": "AIS TRUE FREE စမ်10",
+      "config": "vless://YOUR_VLESS_CONFIG_HERE"
+      },
+    {
+      "name": "AIS TRUE FREE စမ်10",
+      "config": "vless://YOUR_VLESS_CONFIG_HERE"
+      },
+    {
       "name": "AIS TRUE FREE စမ်10",
       "config": "vless://YOUR_VLESS_CONFIG_HERE"
     }
