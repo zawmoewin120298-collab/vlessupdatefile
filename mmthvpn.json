@@ -45,8 +45,8 @@
       "config": "vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?encryption=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&headerType=none&path=%2F#TrueNopro-ndf2cik8cm"
       },
     {
-      "name": "AIS TRUE FREE 12",
-      "config": "vless://YOUR_VLESS_CONFIG_HERE"
+      "name": "Allow 12",
+      "config": "vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@mmthvpn.sryze.cc:443?encryption=none&type=ws&host=mmthvpn.sryze.cc&headerType=none&path=%2Fvpn-ws&security=tls&sni=mmthvpn.sryze.cc#%F0%9F%91%89%F0%9F%A4%B3%F0%9F%91%88"
       },
     {
       "name": "AIS TRUE FREE 13",
