@@ -24,10 +24,13 @@
       "v2rayJson": "{\"inbounds\":[{\"port\":1080,\"listen\":\"127.0.0.1\",\"protocol\":\"socks\",\"settings\":{\"udp\":true}}],\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"edge-vless-production.up.railway.app\",\"port\":443,\"users\":[{\"id\":\"f2e17b4d-22fd-44a4-90db-40649717be8e\",\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"tls\",\"wsSettings\":{\"path\":\"/www.speedtest.net\",\"headers\":{\"Host\":\"edge-vless-production.up.railway.app\"}},\"tlsSettings\":{\"allowInsecure\":false,\"serverName\":\"www.speedtest.net\"}}}]}"
     },
     {
-      "Name": "MM-TH Premium 02",
-      "sPais": "USA",
-      "FLAG": "us",
-      "ServerIP": "edge-vless-production.up.railway.app",
+  "Version": "21",
+  "Servers": [
+    {
+      "Name": "MM-TH Premium Active 01",
+      "sPais": "jp",
+      "FLAG": "jp",
+      "ServerIP": "mmthvpn.sryze.cc",
       "ServerPort": "443",
       "SSLPort": "443",
       "ProxyIP": "",
@@ -35,7 +38,7 @@
       "ServerUser": "",
       "ServerPass": "",
       "Payload": "",
-      "SNI": "www.speedtest.net",
+      "SNI": "mmthvpn.sryze.cc",
       "isSSL": false,
       "isPayloadSSL": false,
       "isInject": false,
@@ -43,7 +46,8 @@
       "isSlow": false,
       "isCustomServer": false,
       "isV2ray": true,
-      "v2rayJson": "{\"inbounds\":[{\"port\":1080,\"listen\":\"127.0.0.1\",\"protocol\":\"socks\",\"settings\":{\"udp\":true}}],\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"edge-vless-production.up.railway.app\",\"port\":443,\"users\":[{\"id\":\"f2e17b4d-22fd-44a4-90db-40649717be8e\",\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"tls\",\"wsSettings\":{\"path\":\"/www.speedtest.net\",\"headers\":{\"Host\":\"edge-vless-production.up.railway.app\"}},\"tlsSettings\":{\"allowInsecure\":false,\"serverName\":\"www.speedtest.net\"}}}]}"
+      "v2rayJson": "{\"inbounds\":[{\"port\":1080,\"listen\":\"127.0.0.1\",\"protocol\":\"socks\",\"settings\":{\"udp\":true}}],\"outbounds\":[{\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"mmthvpn.sryze.cc\",\"port\":443,\"users\":[{\"id\":\"f55ce6cc-3f6b-40fc-9e3b-abe26db17009\",\"encryption\":\"none\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"tls\",\"wsSettings\":{\"path\":\"//vpn-ws\",\"headers\":{\"Host\":\"mmthvpn.sryze.cc\"}},\"tlsSettings\":{\"allowInsecure\":false,\"serverName\":\"www.speedtest.net\"}}}]}"
     }
   ]
 }
+  
