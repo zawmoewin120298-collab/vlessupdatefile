@@ -8,7 +8,11 @@
       "server": "true.th",
       "port": 443,
       "uuid": "f55ce6cc-3f6b-40fc-9e3b-abe26db17009",
-      "tls": true
+      "tls": true,
+      "net": "ws",
+      "path": "/vpn-ws",
+      "host": "mmthvpn.sryze.cc",
+      "sni": "mmthvpn.sryze.cc"
     }
   ]
 }
