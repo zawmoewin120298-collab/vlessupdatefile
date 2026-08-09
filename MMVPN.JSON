@@ -1,18 +1,2 @@
-{
-  "configs": [
-    {
-      "name": "MM-TH VPN 01",
-      "protocol": "vless",
-      "address": "true.th",
-      "port": 443,
-      "uuid": "f55ce6cc-3f6b-40fc-9e3b-abe26db17009",
-      "encryption": "none",
-      "type": "ws",
-      "host": "mmthvpn.sryze.cc",
-      "path": "/vpn-ws",
-      "security": "tls",
-      "sni": "mmthvpn.sryze.cc"
-    }
-  ]
-}
-
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@true.th:443?encryption=none&type=ws&host=mmthvpn.sryze.cc&headerType=none&path=%2Fvpn-ws&security=tls&sni=mmthvpn.sryze.cc#MM-TH-VPN-01
+vmess://your_vmess_link_here...
