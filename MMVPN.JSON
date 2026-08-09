@@ -1,18 +1,20 @@
-{
-  "type": "vless",
-  "tag": "👉🤝👈",
-  "server": "true.th",
-  "server_port": 443,
-  "uuid": "f55ce6cc-3f6b-40fc-9e3b-abe26db17009",
-  "tls": {
-    "enabled": true,
-    "server_name": "mmthvpn.sryze.cc"
-  },
-  "transport": {
-    "type": "ws",
-    "path": "/vpn-ws",
-    "headers": {
-      "Host": "mmthvpn.sryze.cc"
+[
+  {
+    "type": "vless",
+    "tag": "👉🤝👈",
+    "server": "true.th",
+    "server_port": 443,
+    "uuid": "f55ce6cc-3f6b-40fc-9e3b-abe26db17009",
+    "tls": {
+      "enabled": true,
+      "server_name": "mmthvpn.sryze.cc"
+    },
+    "transport": {
+      "type": "ws",
+      "path": "/vpn-ws",
+      "headers": {
+        "Host": "mmthvpn.sryze.cc"
+      }
     }
   }
-}
+]
