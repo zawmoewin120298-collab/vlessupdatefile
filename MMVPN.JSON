@@ -5,14 +5,14 @@
       "name": "👉🤝👈",
       "group": "True Network",
       "type": "vless",
-      "server": "true.th",
+      "server": "original-cdn-production.up.railway.app",
       "port": 443,
       "uuid": "f55ce6cc-3f6b-40fc-9e3b-abe26db17009",
       "tls": true,
       "net": "ws",
       "path": "/vpn-ws",
-      "host": "mmthvpn.sryze.cc",
-      "sni": "mmthvpn.sryze.cc"
+      "host": "original-cdn-production.up.railway.app",
+      "sni": "original-cdn-production.up.railway.app"
     }
   ]
 }
