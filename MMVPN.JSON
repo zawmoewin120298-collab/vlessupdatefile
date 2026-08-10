@@ -2,8 +2,8 @@
   "lastUpdated": "2026-06-09",
   "servers": [
     {
-      "name": "👉🤝👈",
-      "group": "True Network",
+      "name": "MM VPN",
+      "group": "True ",
       "type": "vless",
       "server": "original-cdn-production.up.railway.app",
       "port": 443,
